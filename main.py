@@ -14,7 +14,7 @@ from langchain.chat_models import ChatOpenAI
 from langchain.output_parsers import StructuredOutputParser, ResponseSchema
 
 # use your OpenAI API secret key
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 
  # The schema I want out
 response_schemas = [
